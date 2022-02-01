@@ -63,9 +63,11 @@ Le système peut être étendu à plusieurs cuves de trempage en rajoutant un mo
 
 ![Carte](/images/sch_carte.png)
 
-### PCB
+### PCB V1.2
 
-photo PCB et lien vers gerber file et eagle
+[Fichiers Eagle 7.7.0 avec librairies inclues](/eagleV1.2.rar)
+
+[Fichiers Gerber](/gerber.rar)
 
 ### Code
 
