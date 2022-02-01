@@ -65,9 +65,9 @@ Le système peut être étendu à plusieurs cuves de trempage en rajoutant un mo
 
 ### PCB V1.2
 
-[Fichiers Eagle 7.7.0 avec librairies inclues](/eagleV1.2.rar)
+[Fichiers Eagle 7.7.0 avec librairies inclues](/eagleV1.2.zip)
 
-[Fichiers Gerber](/gerber.rar)
+[Fichiers Gerber](/gerber.zip)
 
 ### Code
 
