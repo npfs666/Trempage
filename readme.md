@@ -27,8 +27,11 @@ Le système de trempage permet de faire des cycles alternés de remplissage et d
 ### Données techniques 
 
 La carte peut commander tout type de vannes motorisées / électrovannes, et de n’importe quelle tension.
+
 La cuve de trempage peut être alimentée par le bas ou par un système de douche selon les besoins.
+
 L’utilisation des électrovannes est déconseillé sur l’arrivée d’eau pour éviter les coups de béliers lors de la detection du trop plein, de plus elle ont un diamètre réduit qui réduit le débit d’eau et elles chauffent beaucoup lorscequ’elle sont allumées.
+
 Et sur la sortie il ne faut pas utiliser d’électrovanne.
 
 
@@ -36,12 +39,13 @@ Et sur la sortie il ne faut pas utiliser d’électrovanne.
 
 ### Photo d’un tableau avec commande manuelle ou programée
 
-![Cuves produit](/images/tableau.jpg)
+![Tableau](/images/tableau.jpg)
 
 ### Schéma électrique
 
 Schéma d’un tableau avec une électrovanne 230VAC en entrée et une vanne motorisée 12VDC en sortie.
-![Schéma](/images/sch_tableau.jpg)
+
+![Schéma](/images/sch_tableau.png)
 
 ### Notes
 
@@ -52,11 +56,12 @@ Le système peut être étendu à plusieurs cuves de trempage en rajoutant un mo
 ## Carte électronique
 
 ### Photo d'un module en cours de régulation
-![Cuves produit](/images/tableau.jpg)
+
+![Carte](/images/carte.jpg)
 
 ### Schéma
 
-photo schéma et lien vers fichiers eagle et gerber
+![Carte](/images/sch_carte.png)
 
 ### PCB
 
@@ -64,6 +69,6 @@ photo PCB et lien vers gerber file et eagle
 
 ### Code
 
-le code sera uploadé sur github
+Le code source est disponible sur ce repo, c'est compilé avec le compilateur xc16 de chez microchip
 
 
