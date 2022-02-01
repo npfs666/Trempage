@@ -9,11 +9,11 @@
 
 ### Schéma général
 
-![Cuves produit](/images/sch_general.jpg)
+![general](/images/sch_general.png)
 
 Le système de trempage permet de faire des cycles alternés de remplissage et de vidange, avec des temporisations différentes.
  
- ![Cuves produit](/images/diagramme_trempage.jpg)
+ ![trempage](/images/temps_trempage.png)
 
 ### Fonctionnement
 
@@ -41,7 +41,7 @@ Et sur la sortie il ne faut pas utiliser d’électrovanne.
 ### Schéma électrique
 
 Schéma d’un tableau avec une électrovanne 230VAC en entrée et une vanne motorisée 12VDC en sortie.
-![Cuves produit](/images/tableau.jpg)
+![Schéma](/images/sch_tableau.jpg)
 
 ### Notes
 
