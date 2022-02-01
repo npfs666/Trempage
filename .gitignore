@@ -1,0 +1,9 @@
+/.generated_files/
+/build/
+/debug/
+/lvgl/lv_appx/
+/lvgl/lv_app/
+/lvgl/
+/lcd.c
+/lcd.h
+/nbproject/
